@@ -1,0 +1,4 @@
+git clone https://github.com/Sensei002/EZsnapper.git
+cd EZsnapper
+chmod +x EZsnapper-install.sh
+sudo ./EZsnapper-install.sh
